@@ -1,0 +1,47 @@
+#cards{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    margin:0 0 0 5rem ;
+}
+#card{
+    width: 16rem;
+    height: 25rem;
+    margin: 8px 0 0 10px ;
+    box-shadow: 10px 12px 10px wheat;
+    border-radius: 1rem;
+}
+.card{
+    width: 14rem;
+    height: 24rem;
+    margin: 15px 0 0 12px ;
+}
+.card img{
+    width: 12rem;
+    height: 12rem;
+    margin: 8px 0 0 20px;
+    box-shadow: 10px 12px 10px wheat ;
+    border-radius: 12px;
+}
+#Card-Detail h1{
+    margin: 15px 0 0 3rem;
+}
+#Card-Detail p{
+    font-size: large;
+    margin: 1rem 0 0 1rem;
+}
+#btn button{
+    margin: 1rem 0 0 3.5rem;
+    font-size: 1.3rem;
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+}
+#card:hover{
+    box-shadow: 10px 12px 10px gainsboro;
+}
+#btn button:active{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}

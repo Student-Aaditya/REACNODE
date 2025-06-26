@@ -1,0 +1,39 @@
+
+nav{
+    display: flex;
+    background-color: black;
+    height: 3rem;
+}
+#a{
+    margin: 0 0 0 24rem;
+    padding: 8px 0 0 0 ;
+}
+#a a{
+    margin: 1rem 0 0 2rem;
+    font-size: 1.5rem;
+    color: white;
+}
+#auth{
+    margin: 0 0 0 24rem;
+     padding: 8px 0 0 0 ;
+}
+#auth a{
+    margin: 1rem 0 0 2rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+#heading-para{
+    width: 35rem;
+    height: 22rem;
+    font-size: 1.9rem;
+    margin: 1rem 0 0 30rem;
+    color: white;
+    text-decoration: 2px 2px 2px ;
+}
+#heading-container{
+    display: flex;
+    background-image: url("B.jpg");
+}
+
+
