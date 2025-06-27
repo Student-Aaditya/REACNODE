@@ -33,7 +33,7 @@ nav{
 }
 #heading-container{
     display: flex;
-    background-image: url("B.jpg");
+    background-image: url("/B.jpg");
 }
 
 
